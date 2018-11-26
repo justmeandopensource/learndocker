@@ -13,7 +13,7 @@ sudo yum install -y docker-ce
 ```
 ###### Using Convenience Script from Docker
 ```
-curl -fsSL https://get.docker.com - | sudo sh -
+curl -fsSL https://get.docker.com | sudo sh -
 ```
 ### Ubuntu 18.04
 ###### From Docker Repository
@@ -28,7 +28,7 @@ sudo apt-get install -y docker-ce
 Docker service enabled and running by default
 ###### Using Convenienct Script from Docker
 ```
-curl -fsSL https://get.docker.com - | sudo sh -
+curl -fsSL https://get.docker.com | sudo sh -
 ```
 ## Starting and Enabling docker service
 On Ubuntu 18.04 the service is enabled and running after installation.
